@@ -78,7 +78,9 @@ The Campus Course & Records Manager (CCRM) is a comprehensive console-based Java
    java -version
    javac -version
    ```
-   **Screenshot Placeholder**: `screenshots/java-version-verification.png`
+   **Screenshot Placeholder**:  
+![Screenshot](screenshots/java-version-verification.png)
+
 
 ### Eclipse IDE Setup
 1. **Download Eclipse IDE**
