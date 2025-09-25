@@ -236,7 +236,8 @@ ccrm-project/
 0. Exit
 ```
 
-**Screenshot Placeholder**: `screenshots/Menu_StudentAdded.png`
+**Screenshot**: 
+![Screenshot](screenshots/Menu_StudentAdded.png)
 
 ### Menu
 1. **Student Management**: Create, list, update and remove students
@@ -245,7 +246,8 @@ ccrm-project/
 4. **File and Utilities**: Create backup and see backup directory
 6. **Save and Exit**: Exit
 
-**Screenshot Placeholder**: `screenshots/Menu_StudentAdded.png`
+**Screenshot**: 
+![Screenshot](screenshots/Menu_StudentAdded.png)
 
 ## Enabling Assertions
 
