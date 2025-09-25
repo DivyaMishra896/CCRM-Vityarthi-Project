@@ -98,7 +98,7 @@ The Campus Course & Records Manager (CCRM) is a comprehensive console-based Java
 3. **Configure Run Configuration**
    - Right-click project → Run As → Run Configurations
    - Create new Java Application configuration
-   - Main class: `edu.ccrm.Main`
+   - Main class: `edu.ccrm.cli.Main`
    - VM arguments: `-ea` (enable assertions)
    
    **Screenshot Placeholder**: `screenshots/eclipse-run-config.png`
